@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Youngzy's Github Stats](https://github-readme-stats.vercel.app/api?username=youngzhu&show_icons=true)
 
 ### 鸣谢
-- ![@yili1992](https://github.com/yili1992)
+- [@yili1992](https://github.com/yili1992)
