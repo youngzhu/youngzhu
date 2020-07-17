@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Followers](https://img.shields.io/github/followers/youngzhu?label=Follw&style=social)
+[![HitCount](http://hits.dwyl.com/youngzhu/youngzhu.svg)](http://hits.dwyl.com/youngzhu/youngzhu)  
 
 <!--
 **youngzhu/youngzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
